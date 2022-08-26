@@ -4,7 +4,7 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Frond-End eğitiminde oluştur
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/111988776/186932855-8878cc92-29b2-4110-abc5-1645dba09ff2.JPG)
 
 
-##Installation
+## Installation
 
 Öncelikle projeyi clonlayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
@@ -19,7 +19,7 @@ Linux için:
 `cd kodluyoruzilkrepo
 code .`
 
-##Contributing
+## Contributing
 
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
