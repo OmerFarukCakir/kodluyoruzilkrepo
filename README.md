@@ -8,7 +8,9 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Frond-End eğitiminde oluştur
 
 Öncelikle projeyi clonlayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-`https://github.com/OmerFarukCakir/kodluyoruzilkrepo.git`
+``` 
+https://github.com/OmerFarukCakir/kodluyoruzilkrepo.git 
+```
 
 ## Usage
 
@@ -16,8 +18,10 @@ Projeyi clonladıktan sonra Visual Studio Code programını açın.
 
 Linux için:
 
-`cd kodluyoruzilkrepo
-code .`
+```
+cd kodluyoruzilkrepo
+code .
+```
 
 ## Contributing
 
