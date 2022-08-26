@@ -10,7 +10,7 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Frond-End eğitiminde oluştur
 
 `https://github.com/OmerFarukCakir/kodluyoruzilkrepo.git`
 
-##Usage
+## Usage
 
 Projeyi clonladıktan sonra Visual Studio Code programını açın.
 
